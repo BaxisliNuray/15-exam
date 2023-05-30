@@ -1,0 +1,34 @@
+.herobtn{
+    position: relative;
+    line-height: 59px;
+    font-family: 'gill', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    padding: 0px 30px;
+    margin-top: 10px;
+    color: #FFFFFF;
+    background-color: #ffa800;
+    text-transform: uppercase;
+    transition: .4s;
+}
+
+.herobtn:hover{
+    background-color: #FFFFFF;
+    color: #ffa800;
+}
+
+
+.card2{
+    background: linear-gradient(#ffffff, #ffffff 50%, #df980a 50%, #ffaa00);
+    background-size: 100% 200%;
+    color: #ffa800;
+    transition:  .3s;
+}
+
+
+.card2:hover{
+background: #ffa800;
+color: white;
+background-position: 100% 100%;
+}
